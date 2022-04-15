@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on Kodluyoruz, Start Your Career - Prepration for Bootcamp Programs
 
-- 🌱 I’m currently learning C#, .Net Core, Python 
+- 🌱 I’m currently learning C#, .Net Core 
 
 - 👯 I’m looking to collaborate on Bootcamp and/or Internship programs 
 
-- 💬 Talk to me about C#, .Net Core, Python and maybe if you want Earthquakes 
+- 💬 Talk to me about C#, .Net Core and maybe if you want Earthquakes 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/coskunonur01?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
