@@ -10,7 +10,7 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on Kodluyoruz, Start Your Career - Prepration for Bootcamp Programs
+- 🔭 I’m currently training in Kodluyoruz, Start Your Career - .NET Core with C# Bootcamp
 
 - 🌱 I’m currently learning C#, .Net Core 
 
