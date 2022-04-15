@@ -1,9 +1,5 @@
 
-<div align="center">
-<img width="60%" height = "200px" src="https://media4.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif?cid=ecf05e47pcj9mk2o5igs78oudvtgmxvk8h7q34izortljqy5&rid=giphy.gif&ct=g" alt="cover" />
-</div>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=coskunonur01.coskunonur01)
