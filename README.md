@@ -37,9 +37,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=onurcoskun1&count_private=true&show_icons=true&theme=dark" />
 </a>
 
-
-<a><h2> Some Programming Humor for you </h2></a>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
-
