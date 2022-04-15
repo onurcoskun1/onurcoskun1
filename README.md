@@ -38,7 +38,7 @@
 </a>
 
 
-<h2> Some Programming Humor for you </h2>
+<a><h2> Some Programming Humor for you </h2></a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
