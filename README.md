@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently training in Kodluyoruz, Start Your Career - .NET Core with C# Bootcamp
 
-- 🌱 I’m currently learning C#, .Net Core 
+- 🌱 I’m currently learning C#, .Net Core, SQL , Git, Selenium, Test Methods etc. 
 
-- 👯 I’m looking to collaborate on Bootcamp and/or Internship programs 
+- 👯 I’m looking to collaborate on Jr. QA Engineering/Jr. Backend Developer/ MT or Internship programs. 
 
-- 💬 Talk to me about C#, .Net Core and maybe if you want Earthquakes 
+- 💬 Talk to me about C#, .Net Core, Web API, OOP, Architectures and maybe if you want Earthquakes 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/coskunonur01?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
