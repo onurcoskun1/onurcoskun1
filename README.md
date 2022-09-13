@@ -10,8 +10,7 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently training in Kodluyoruz, Start Your Career - .NET Core with C# Bootcamp
-
+- 🔭 I’m currently working in Efectura as Jr. Software Quality Assurance Engineer
 - 🌱 I’m currently learning C#, .Net Core, SQL , Git, Selenium, Test Methods etc. 
 
 - 👯 I’m looking to collaborate on Jr. Software Quality Assurance Engineering. 
